@@ -1,4 +1,10 @@
-D 'DEA': Data envelopment analysis
+D 'kaksongen': Computes the decomposition of the social welfare impact of taxation Use kaksongen With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F fracrank.ado
+F fracrank.sthlp
+F kaksongen.ado
+F kaksongen.sthlp
+F sgini.ado
+F sgini.sthlp
+F sginicorr.ado
+F sginicorr.sthlp
