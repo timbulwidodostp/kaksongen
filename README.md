@@ -1,6 +1,8 @@
 # kaksongen
 Computes the decomposition of the social welfare impact of taxation Use kaksongen With STATA 19
 
+https://www.youtube.com/watch?v=gesadHMI5iA
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
